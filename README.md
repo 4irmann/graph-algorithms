@@ -1,6 +1,6 @@
 # Graph Theory Algorithms
  
-Some graph theory algorithms and visulizations implemented in Java.
+Some graph theory algorithms and visualizations implemented in Java.
 
 ## Installation
 
