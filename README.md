@@ -13,10 +13,10 @@ Some graph theory algorithms and visualizations implemented in Java. The followi
 
 ## Installation
 
-Download the binary algo.jar file from the releases. Make sure that Java JRE or JDK >= 1.7 is installed
+Download the binary graph-algorithms-x-x-x.jar file from the releases. Make sure that Java JRE or JDK >= 1.7 is installed
 In order to start the program, just double click the jar file in explorer (Windows).
-If this doesn't work, try to start from the command line: `java -jar algo-x.x.x.jar`
-E.g. on windows: press windows key+r, type cmd -> `java -jar path to algo-x.x.x.jar`
+If this doesn't work, try to start from the command line: `java -jar graph-algorithms-x-x-x.jar`
+E.g. on windows: press windows key+r, type cmd -> `java -jar path to graph-algorithms-x-x-x.jar`
 
 ## Compilation and executable jar generation
 
