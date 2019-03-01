@@ -14,5 +14,6 @@ E.g. on windows: press windows key+r, type cmd -> `java -jar path to algo-x.x.x.
 In order to compile your own executable jar file, just compile the Java code and 
 add the resulting class files together with all source code files into a zip file.
 Rename that zip file to jar. Done.
+Hint: `.project` and `.classpath`files can be ignored. They are Eclipse IDE specific artifacts.
 
 ## Output Example
