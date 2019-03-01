@@ -7,7 +7,7 @@ Some graph theory algorithms and visualizations implemented in Java. The followi
 - minimal path length ([Djikstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm))
 - [topological sort]( https://en.wikipedia.org/wiki/Topological_sorting) (for directed acyclic graph)
 - [strongly connected components](https://en.wikipedia.org/wiki/Strongly_connected_component) (for directed graph)
-- transitive closure (for directed graph, [Warshall](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm))
+- [transitive closure](https://en.wikipedia.org/wiki/Transitive_closure) (for directed graph, [Warshall](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm))
 - minimal path length (for directed graph, [Floyd]( https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm))
 - maximal flow (for weighted graph, [Edmonds-Karp]( https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm))
 
